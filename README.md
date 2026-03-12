@@ -1,4 +1,4 @@
-# Shriram-Finance-DCF-Model# Shriram Finance — Equity DCF Valuation Model
+# Shriram Finance — Equity DCF Valuation Model
 
 An independently built 3-scenario Equity DCF valuation model for **Shriram Finance Limited (NSE: SHRIRAMFIN)**, India's largest retail NBFC by AUM.
 
